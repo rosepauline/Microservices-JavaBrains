@@ -1,0 +1,10 @@
+my:
+    greeting: Hello World
+        list:
+              values: One,Two,Three
+
+
+              db:
+                  connection: test-connection-string-here
+                      host: 127.0.0.1
+                          port: 2400
